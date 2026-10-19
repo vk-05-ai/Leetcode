@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vk-05-ai/Leetcode/tree/master/0412-fizz-buzz) |
+| [3110-score-of-a-string](https://github.com/vk-05-ai/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
