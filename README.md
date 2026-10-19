@@ -11,6 +11,7 @@
 | [2413-smallest-even-multiple](https://github.com/vk-05-ai/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/vk-05-ai/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vk-05-ai/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/vk-05-ai/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
 | ------- |
