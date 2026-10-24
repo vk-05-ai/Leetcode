@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vk-05-ai/Leetcode/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/vk-05-ai/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vk-05-ai/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/vk-05-ai/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
