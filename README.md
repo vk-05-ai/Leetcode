@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
 | [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3925-concatenate-array-with-reverse](https://github.com/vk-05-ai/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vk-05-ai/Leetcode/tree/master/0412-fizz-buzz) |
+| [3925-concatenate-array-with-reverse](https://github.com/vk-05-ai/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
