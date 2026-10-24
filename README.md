@@ -12,11 +12,13 @@
 | [2469-convert-the-temperature](https://github.com/vk-05-ai/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vk-05-ai/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vk-05-ai/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vk-05-ai/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vk-05-ai/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vk-05-ai/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/vk-05-ai/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
