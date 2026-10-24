@@ -14,6 +14,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vk-05-ai/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vk-05-ai/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vk-05-ai/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vk-05-ai/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vk-05-ai/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -23,6 +24,7 @@
 | [1929-concatenation-of-array](https://github.com/vk-05-ai/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vk-05-ai/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vk-05-ai/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vk-05-ai/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/vk-05-ai/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -30,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vk-05-ai/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Number Theory
 |  |
