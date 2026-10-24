@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
+| [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
+| [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Number Theory
 |  |
 | ------- |
