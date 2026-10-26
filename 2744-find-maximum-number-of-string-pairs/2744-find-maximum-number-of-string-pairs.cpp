@@ -6,7 +6,6 @@ public:
             for(int j=i+1;j<words.size();j++){
                 string rev=words[j];
                 reverse(rev.begin(),rev.end());
-                cout<<rev;
                 if (words[i] == rev) count++;
             }
         }
