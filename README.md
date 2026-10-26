@@ -31,6 +31,7 @@
 | [1929-concatenation-of-array](https://github.com/vk-05-ai/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vk-05-ai/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vk-05-ai/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vk-05-ai/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vk-05-ai/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vk-05-ai/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -81,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vk-05-ai/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/vk-05-ai/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
@@ -90,6 +92,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vk-05-ai/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
