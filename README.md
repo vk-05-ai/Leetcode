@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
+| [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/vk-05-ai/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vk-05-ai/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vk-05-ai/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/vk-05-ai/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vk-05-ai/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
