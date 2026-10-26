@@ -65,6 +65,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vk-05-ai/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/vk-05-ai/Leetcode/tree/master/3110-score-of-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/vk-05-ai/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3884-first-matching-character-from-both-ends](https://github.com/vk-05-ai/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
