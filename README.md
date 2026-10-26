@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
+| [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/vk-05-ai/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vk-05-ai/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/vk-05-ai/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/vk-05-ai/Leetcode/tree/master/0709-to-lower-case) |
+| [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/vk-05-ai/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vk-05-ai/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -91,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/vk-05-ai/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
