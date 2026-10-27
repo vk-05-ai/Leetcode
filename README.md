@@ -138,4 +138,8 @@
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vk-05-ai/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vk-05-ai/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
