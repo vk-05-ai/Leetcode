@@ -18,6 +18,7 @@
 | [2652-sum-multiples](https://github.com/vk-05-ai/Leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vk-05-ai/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vk-05-ai/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vk-05-ai/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vk-05-ai/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vk-05-ai/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/vk-05-ai/Leetcode/tree/master/3516-find-closest-person) |
@@ -41,6 +42,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vk-05-ai/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vk-05-ai/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vk-05-ai/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vk-05-ai/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/vk-05-ai/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -79,6 +81,7 @@
 | [1929-concatenation-of-array](https://github.com/vk-05-ai/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vk-05-ai/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vk-05-ai/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/vk-05-ai/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/vk-05-ai/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vk-05-ai/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
