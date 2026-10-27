@@ -23,6 +23,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vk-05-ai/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vk-05-ai/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/vk-05-ai/Leetcode/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vk-05-ai/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vk-05-ai/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vk-05-ai/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/vk-05-ai/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -48,6 +49,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vk-05-ai/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vk-05-ai/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/vk-05-ai/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vk-05-ai/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/vk-05-ai/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/vk-05-ai/Leetcode/tree/master/3895-count-digit-appearances) |
