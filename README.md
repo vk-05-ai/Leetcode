@@ -25,6 +25,7 @@
 | [3516-find-closest-person](https://github.com/vk-05-ai/Leetcode/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vk-05-ai/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vk-05-ai/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/vk-05-ai/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [3467-transform-array-by-parity](https://github.com/vk-05-ai/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/vk-05-ai/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/vk-05-ai/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/vk-05-ai/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/vk-05-ai/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
