@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
 | [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk-05-ai/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vk-05-ai/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vk-05-ai/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk-05-ai/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vk-05-ai/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vk-05-ai/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk-05-ai/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vk-05-ai/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/vk-05-ai/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk-05-ai/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
