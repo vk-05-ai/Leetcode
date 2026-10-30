@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vk-05-ai/Leetcode/tree/master/0412-fizz-buzz) |
+| [1227-airplane-seat-assignment-probability](https://github.com/vk-05-ai/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vk-05-ai/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vk-05-ai/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/vk-05-ai/Leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -156,4 +157,16 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/vk-05-ai/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/vk-05-ai/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/vk-05-ai/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/vk-05-ai/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
