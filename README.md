@@ -154,6 +154,7 @@
 | ------- |
 | [0610-triangle-judgement](https://github.com/vk-05-ai/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/vk-05-ai/Leetcode/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/vk-05-ai/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vk-05-ai/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prime Factorization
 |  |
