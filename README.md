@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk-05-ai/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/vk-05-ai/Leetcode/tree/master/0027-remove-element) |
 | [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/vk-05-ai/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vk-05-ai/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -115,6 +116,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vk-05-ai/Leetcode/tree/master/0027-remove-element) |
 | [0942-di-string-match](https://github.com/vk-05-ai/Leetcode/tree/master/0942-di-string-match) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vk-05-ai/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/vk-05-ai/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
